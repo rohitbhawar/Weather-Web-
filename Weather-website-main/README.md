@@ -2,8 +2,7 @@
 ✏️ A simple website to show the weather forecast of cities all over the world ❗
  
  # Project deployed at
-
-<a href="https://mithesh14.github.io/Weather-website/">Weather forecast</a>
+github
 
 # Screenshots 
 
